@@ -1,5 +1,5 @@
 # Darka
-A short game developed on Java language 
+A short game developed in Java language 
 
 ## License
 MIT
